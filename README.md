@@ -1,4 +1,4 @@
-# DeepConvnet-master
+# DeepConvNet-master
 
 This repo contains the code and the pre-trained models used in the paper:"Shallow and Deep Convolutional Networks for Saliency Prediction".
 
